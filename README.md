@@ -4,18 +4,18 @@ A modern and responsive calculator built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- Beautiful Glassmorphism UI
-- Responsive Design
-- Basic Arithmetic Operations
-- Error Handling
-- Hover Animations
-- Clean and Modern Layout
+* Beautiful Glassmorphism UI
+* Responsive Design
+* Basic Arithmetic Operations
+* Error Handling
+* Hover Animations
+* Clean and Modern Layout
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
 ## Project Structure
 
@@ -29,21 +29,25 @@ modern-calculator/
 
 ## Live Demo
 
+🔗 https://sunil-705.github.io/modern-calculator/
 
-```bash
-https://sunil-705.github.io/modern-calculator/
-```
+## Screenshots
 
-## Screenshot
+### Screenshot 1
 
-
-```md
 ![Calculator Screenshot](s1.jpeg)
-![Calculator Screenshot](s2.jpeg)
-![Calculator Screenshot](s3.jpeg)
-![Calculator Screenshot](s4.jpeg)
 
-```
+### Screenshot 2
+
+![Calculator Screenshot](s2.jpeg)
+
+### Screenshot 3
+
+![Calculator Screenshot](s3.jpeg)
+
+### Screenshot 4
+
+![Calculator Screenshot](s4.jpeg)
 
 ## How to Run
 
@@ -53,4 +57,4 @@ https://sunil-705.github.io/modern-calculator/
 
 ## Author
 
-Sunil Kumar
+**Sunil Kumar**
